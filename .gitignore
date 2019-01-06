@@ -1,0 +1,7 @@
+*.pdf
+*.bib
+*.html
+
+/Newman*
+
+miller/res*
