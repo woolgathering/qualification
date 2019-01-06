@@ -14,7 +14,7 @@ The original file<br/>
 ![Plain](include/ice1.jpg)
 
 A single hex value edited by an increment of one (up or down, I don't remember)<br/>
-![Plain](include/newIce1.jpg)
+![Edited](include/newIce1.jpg)
 
 <br/>
 __Re-representation__<br/>

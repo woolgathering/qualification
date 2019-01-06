@@ -34,7 +34,6 @@ Burnham thought that conceptual art fed off the "logical structure of art itself
 Burnham eventually became disullisioned with the role of emerging technology in art, losing faith in its ability to contribute meaningfully to to the signifying system he saw as the mythic structure in Western art. "Technology in art, for Burnham, ultimately was meaningful only to the extent that it contributed to stripping away signifiers to reveal the mythic structure of art."
 
 ## Reaction
-This idea of abstracting the computing notions of _software_ (the stuff/information/ideas that actually make the art) and _hardware_ (the stuff/physical material that art is made _from_) is quite potent.
+This idea of abstracting the computing notions of _software_ (the stuff/information/ideas that actually make the art) and _hardware_ (the stuff/physical material that art is made _from_) is quite potent. The focus isn't technology as such but rather uses technology not as technology but as a concept.
 
-
-What I find particularly interesting in many of these works is not necessarily the fact that they use technology nor the how they use technology (hardware), but rather that they use technology as a metaphor (software).
+What I find particularly interesting in many of these works is not necessarily the fact that they use technology nor the how they use technology (hardware), but rather that they use technology as a metaphor for art (software). The material of art is less critical than that which actually constitutes the art which, in the case of Burnham, is the ephemeral non-material part of art. This is very much related to my thinking about art and technology in general; not necessarily the specific ideas but the idea of focusing _not_ on technology but using it as a tool (in whatever form that may take; literal, figurative, or metaphorical).
