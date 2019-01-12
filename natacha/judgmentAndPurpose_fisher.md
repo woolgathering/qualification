@@ -9,14 +9,20 @@ Fisher goes on to discuss how we are often made to believe failure is more commo
 
 As an example, Fisher uses Michaelango's unfinished sculptures. Although incomplete, they are generally considered masterpieces (`perhaps due to the fact that they're Michaelango's?`).
 
-![Michaelango St. Matthew](include/Michelangelo_stMatthew.jpg =400x)
-<br/><d> <small> St. Matthew, 1506 </small> <d>
+<d>
+<img src="include/Michelangelo_stMatthew.jpg" width=auto height=400>
+<br/> <small>St. Matthew, 1506</small> <br/><br/>
+</d>
 
-![Michaelango Awakening Slave](include/michelangelo_awakeningSlave.jpg =400x)
-<br/><d> <small> The Awakening Slave, 1520-1523 </small> <d>
+<d>
+<img src="include/michelangelo_awakeningSlave.jpg" width=auto height=400>
+<br/> <small>The Awakening Slave, 1520-1523</small><br/><br/>
+</d>
 
-![Michaelango Awakening Slave](include/michelangelo_slavesAtlas.jpg =500x)
-<br/><d> <small> The Bearded Slave, 1530-1534; The Atlas, 1530-1534 </small> <d>
+<d>
+<img src="include/michelangelo_slavesAtlas.jpg" width=auto height=400>
+<br/> <small>The Bearded Slave, 1530-1534; The Atlas, 1530-1534</small><br/><br/>
+</d>
 
 The unfinished is no longer viewed with negative prejudice or suspended judgment as they were in the past (`citation needed...`). If this is true, then it seems, Fisher suggests, that a work is "somehow complete at every point in its development."
 
