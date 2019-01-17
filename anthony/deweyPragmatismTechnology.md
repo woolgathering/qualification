@@ -21,3 +21,18 @@ Hickman describes Dewey's account of technology as "the warp on which the weft o
 ### Dewey's Account of Technology as Pragmatic
 
 First, defining Dewey's pragmatism (he denied the label but we all know how that went): his understanding was based on the idea that the meaning of a conception lies in its conceivable practical effects. Specifically, "meanings are not representational but fluid and contextual: they emerge within processes of inquiry as the result as a result of the interplay between means and ends that allows them to 'breed' new meanings." Hickman quotes Dewey: "Meaning, fixed as essence in a term of discourse, may be imaginatively administered and manipulated, experimented with." This process of using meaning effectively "breeds" new meanings. Dewey further distinguished between what is experimental and what is empirical, the experiment being, "the art of conducting a sequence of observations in which natural conditions are intentionally altered and controlled in ways which will disclose, discover, natural subject-matters which would not otherwise have been noted." (`This clearly is a take on scientific experimentalism, naturally, since his project of technology is about inquiry, as opposed to what we think of artistic experimentalism.`)
+
+__Functionalism__ <br/>
+Dewey's understanding of functionalism as it relates to pragmatism is best understood by the way it relates to "process" and "structure".
+  - _Process_: the manifestation of energy in a change. The relatively dynamic factor.
+  - _Structure_: the arrangement of energies in a relatively static or enduring form. The relatively static factor.
+  - _Function_: the consequences that give meaning or significance to process or structure. The "ends" maintained and subserved (phase of use and purpose).
+
+Dewey _functionalizes_ the difference between material and conceptual tools as their function in practice determines them as instruments and not their structural features. (Hickman goes aside and notes Dewey's view on logical objects [i.e. numbers, classes, etc]. He viewed them as _tools of inference_ in the same sense as plows in a field, as opposed to physical, psychological, or metaphysical objects.)
+
+__Instrumentalism__<br/>
+His understanding of instrumentalism as it relates to pragmatism is that "means are treated as both instruments and as intermediate ends of inquiry."
+  - _Instruments_: "Laws" of nature/science are not treated as universal nor particular but rather as _universalizable_ in the sense that instruments can be used in appropriately relevant contexts for particular ends.
+  - _Intermediate Ends_: Aims ("ends-in-view") are both ends of inquiry and instrumental for further inquiry (`a never ending sequence of inquiry, it seems`).
+
+### Knowing as a Mode of Technology
