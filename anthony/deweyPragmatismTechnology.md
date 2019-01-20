@@ -36,3 +36,19 @@ His understanding of instrumentalism as it relates to pragmatism is that "means 
   - _Intermediate Ends_: Aims ("ends-in-view") are both ends of inquiry and instrumental for further inquiry (`a never ending sequence of inquiry, it seems`).
 
 ### Knowing as a Mode of Technology
+
+Dewey specifically says that knowledge as a form of technology does not mean that its subject matter and products are related or similar to the technologies exhibited in the production of goods and services (technology as material). Dewey charactarized knowing as a mode of technology has two phases:
+  1. "[K]nowledge is, first, a form of technology in the methods it employs in producing more knowledge and improving its own methods..."
+  2. "[Knowledge] is _capable_ of being a technology in human social guidance of technologies now called such but whose human and social consequences are left a matter of pulling and hauling of conflicting customs and institutions which are hardly touched by effective use of the method of intelligence at work." (`?????`)
+
+
+__(1)__ Knowledge is technology in that knowledge produces more knowledge _systematically_ and in ways that are self-corrective. Looking at it this way, it is not identical to the methods of the sciences and engineering since it involves both the tools of inquiry itself and is informed by inquiry into non-scientific fields. At its root is systematic inquiry into the tools, materials, and techniques of any particular discipline. __(2)__ "Knowledge is technology as an art in its 'wider human and moral sense' of tools of inquiry used and developed." (`I don't really follow what this means`).
+
+Dewey rejects the dystopian view of technology as alienating, fails in authenticity, or forgets Being that was put forth by Heidegger and some other neo-Marxist critical theorists. Unlike Heidegger, he does not look backward from the existence of tools and artifacts to considerations of their possibility but rather "forward in ways that engage human concerns." Technology, for Dewey, is neither a thing, organization, or system. Rejecting instrumental rationality as a method, Dewey argues that it provides tools for enhanced communication and liberation from tradition and custom.
+
+
+
+
+## Reaction/Thoughts
+
+This appeals to me for several reasons the first of which is that Dewey, naturally, does not treat "technology" as a set of material objects and thinks of it far more abstractly than I think many of us (at least those of us in the computer-world) tend to think about it. Technology is a tool to be used for inquiry, in my case, mostly artistic (?) inquiry, not necessarily and end in itself, although according to his understanding of instrumentalism that could conceivably be argued. But maybe that's where I'm seeing the difference: technology, as commonly understood to refer to computational machines or electronics, ought not to be an end of an artistic project in the way technology can be an end. So if we're talking about that (artistic project), we're not talking about technology but art. If we go into an artistic project and end up talking about technology, there seems to lie the problem, for me, at least, since the means of the project aren't really the point.
