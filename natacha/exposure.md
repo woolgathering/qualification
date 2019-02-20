@@ -45,3 +45,9 @@ I am particularly interested and attracted to work that not only uses failure/gl
 # Glitch as Fracture
 
 ## Fracture as Metaphor
+
+
+
+## Thoughts, Questions, Rants
+
+I wonder how something like endurance works play into this. There are, of course, the pieces of Marina Abramović but even works like Feldman's String Quartet 2 (6 hours) or Satie's Vexations.

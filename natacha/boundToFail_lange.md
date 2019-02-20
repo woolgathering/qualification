@@ -7,7 +7,7 @@ Lange essentially investigates the history of failure (futility of process, func
 ### Pertinent examples:
 
 __Bruce Nauman__<br/>
-_Bouncing Two Balls between the Floor and Ceiling with Changing Rhythms_ 1967-68 <br/>
+_Bouncing Two Balls between the Floor and Ceiling with Changing Rhythms_ 1967-68. [EAI](http://www.eai.org/titles/bouncing-two-balls-between-the-floor-and-ceiling-with-changing-rhythms). <br/>
 _Failing to Levitate in the Studio_ 1966. [Stedelijk Museum Archive](https://www.stedelijk.nl/en/collection/96022-bruce-nauman-failing-to-levitate-in-the-studio?page=2).  <br/>
 
 __Douglas Huebler__ <br/>
